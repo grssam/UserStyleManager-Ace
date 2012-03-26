@@ -303,7 +303,7 @@
     </hbox>
   </vbox>
   <vbox id="USMTextEditorContainer" flex="1">
-    <html:div id="USMTextEditor" flex="1"/>
+    <html:div id="USMTextEditor"/>
     <hbox class="error-label" id="USMErrorLabel">
       <label value="&error.label;" style="padding:4px 0px;"/>
       <spacer flex="1"/>

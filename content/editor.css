@@ -1,7 +1,7 @@
 #USMTextEditor {
-  position: absolute;
-  min-width: 500px;
-  min-height: 400px;
+  top : 0px;
+  left: 0px;
+  -moz-box-flex: 1;
 }
 .search-buttons {
   padding: 3px 4px;
