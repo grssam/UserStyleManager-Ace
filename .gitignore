@@ -1,0 +1,8 @@
+*.xpi
+*.zip
+*.txt
+FirstStart/
+
+images/*
+
+stylish stuff/
